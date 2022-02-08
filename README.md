@@ -13,3 +13,5 @@ If you want my persnolised ML notebook with topics of Statistics, MySQL, Python 
 5) https://youtu.be/eZOHA6Uy52k
 6) https://youtu.be/u6aEYuemt0M
 7) https://youtu.be/3SypMvnQT_s
+8) https://youtu.be/IHH47nZ7FZU
+
